@@ -1,51 +1,58 @@
-👋 Hi there, I'm Precious Azubuine, a Cloud Devops Engineer.
+## 👋 Hi there, I'm Precious Azubuine, a Cloud DevOps Engineer
 
-I'm a Cloud and DevpOps Engineer with experience in building reliable, secure, and scalable infrastructure using AWS and modern DevOps practices. I specialize in Infrastructure as Code, automation, and cloud-native architecture, with a proven track record across multiple projects delivering production-grade infrastructure.
+I'm a Cloud and DevOps Engineer with experience building **reliable, secure, and scalable infrastructure** using AWS and modern DevOps practices.  
+I specialise in **Infrastructure as Code, automation, and cloud-native architecture**, with a proven track record across multiple projects delivering **production-grade infrastructure**.
 
+---
 
-##🚀 What I Do
+## 🚀 What I Do
 
-I Worked at AllPrime Technologies, I focus on designing and managing AWS infrastructure with automation at its core. I’ve recently worked on:
-- Container orchestration using Docker, ECs, ECR.
-- Infrastructure deployment using Terraform
-- Resource and incident handling and monitoring using CloudWatch
-- Github Actions and Jenkins-based CI/CD pipeline
-- S3 static site hosting, WAF integration, and Lambda API automation
+I worked at **AllPrime Technologies**, where I focused on designing and managing AWS infrastructure with automation at its core.  
+I’ve recently worked on:
 
+- Container orchestration using **Docker, ECS, and ECR**
+- Infrastructure deployment using **Terraform**
+- Resource and incident handling with **CloudWatch**
+- **GitHub Actions** and **Jenkins-based CI/CD pipelines**
+- **S3 static site hosting**, **WAF integration**, and **Lambda API automation**
 
-🔧 My Toolbox
-☁️ Cloud & Infrastructure
+---
 
-☁️ AWS: EC2, ECS, RDS, S3, VPC, IAM, Lambda, CloudWatch, DynamoDB, EventBridge
+## 🔧 My Toolbox
 
-🏗️ IaC: Terraform, Cloudformation
+### ☁️ Cloud & Infrastructure
+- **AWS:** EC2, ECS, RDS, S3, VPC, IAM, Lambda, CloudWatch, DynamoDB, EventBridge
 
-🐳 Containerization: Docker, ECS, Fargate
+### 🏗️ Infrastructure as Code
+- Terraform, CloudFormation
 
-🛰️ Serverless: Lambda, API Gateway, S3 hosting
+### 🐳 Containerization
+- Docker, ECS, Fargate
 
-🛠️ DevOps & Automation
+### 🛰️ Serverless
+- Lambda, API Gateway, S3 hosting
 
-🤖 CI/CD: Github Actions, Jenkins
+### 🛠️ DevOps & Automation
+- **CI/CD:** GitHub Actions, Jenkins
 
-📈 Monitoring & Logging: CloudWatch
+### 📈 Monitoring & Logging
+- CloudWatch
 
-🧰 Tools & Practices
+### 🧰 Tools & Practices
+- **Version Control:** Git, GitHub
+- **Architecture Design:** draw.io, Lucidchart
 
-🗂️ Version Control: Git, GitHub
+---
 
-🧩 Architecture Design: draw.io, Lucidchart.
+## 💬 A Bit More About Me
 
-📜 Certifications & Learning
+- Passionate about cloud innovation and enabling teams to deliver **faster, safer, and smarter**
+- Frequently work on **application deployment** and **infrastructure management** based on client needs
+- Comfortable analysing existing infrastructure and adapting solutions to meet business requirements
 
-- AWS Solutions Architect- Associate
-- Continuous hands-on cloud projects
+---
 
-💬 A Bit More About Me
-Passionate about cloud innovation and enabling teams to deliver faster, safer, and smarter.
-Frequently work on application deployment and infrastructure management depending on clients needs.
-Comfortable analyzing existing infrastructure and adapting solutions based on business needs.
+## 📚 Projects & Learning
 
-📚 Projects & Learning
-Built a three tier containerised web application using ECS and ECR with front-end on S3 and cloudfront and Github Actions for the CI/CD pipeline.
-Built and deployed a serverless React web application using lambda, api gateway, DynamoDB, Cognito, S3 and cloudfront.
+- Built a **three-tier containerised web application** using **ECS and ECR**, with a frontend on **S3 + CloudFront** and **GitHub Actions** for CI/CD
+- Built and deployed a **serverless React web application** using **Lambda, API Gateway, DynamoDB, Cognito, S3, and CloudFront**
