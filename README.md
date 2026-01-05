@@ -1,7 +1,6 @@
 👋 Hi there, I'm Precious Azubuine, a Cloud Devops Engineer.
 
-I'm a Cloud and DevpOps Engineer with experience for building reliable, secure, and scalable infrastructure using AWS and modern DevOps practices. I specialize in Infrastructure as Code, automation, and cloud-native architecture, with a proven track record across multiple projects delivering production-grade infrastructure.
-
+I'm a Cloud and DevpOps Engineer with experience in building reliable, secure, and scalable infrastructure using AWS and modern DevOps practices. I specialize in Infrastructure as Code, automation, and cloud-native architecture, with a proven track record across multiple projects delivering production-grade infrastructure.
 
 
 🚀 What I Do
