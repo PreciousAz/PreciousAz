@@ -15,15 +15,25 @@ S3 static site hosting, WAF integration, and Lambda API automation
 
 🔧 My Toolbox
 ☁️ Cloud & Infrastructure
+
 ☁️ AWS: EC2, ECS, RDS, S3, VPC, IAM, Lambda, CloudWatch, DynamoDB, EventBridge
+
 🏗️ IaC: Terraform, Cloudformation
+
 🐳 Containerization: Docker, ECS, Fargate
+
 🛰️ Serverless: Lambda, API Gateway, S3 hosting
+
 🛠️ DevOps & Automation
+
 🤖 CI/CD: Github Actions, Jenkins
+
 📈 Monitoring & Logging: CloudWatch
+
 🧰 Tools & Practices
+
 🗂️ Version Control: Git, GitHub
+
 🧩 Architecture Design: draw.io, Lucidchart.
 
 📜 Certifications & Learning
