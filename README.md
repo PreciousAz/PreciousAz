@@ -3,14 +3,14 @@
 I'm a Cloud and DevpOps Engineer with experience in building reliable, secure, and scalable infrastructure using AWS and modern DevOps practices. I specialize in Infrastructure as Code, automation, and cloud-native architecture, with a proven track record across multiple projects delivering production-grade infrastructure.
 
 
-🚀 What I Do
+##🚀 What I Do
 
 I Worked at AllPrime Technologies, I focus on designing and managing AWS infrastructure with automation at its core. I’ve recently worked on:
-Container orchestration using Docker, ECs, ECR.
-Infrastructure deployment using Terraform
-Resource and incident handling and monitoring using CloudWatch
-Github Actions and Jenkins-based CI/CD pipeline
-S3 static site hosting, WAF integration, and Lambda API automation
+- Container orchestration using Docker, ECs, ECR.
+- Infrastructure deployment using Terraform
+- Resource and incident handling and monitoring using CloudWatch
+- Github Actions and Jenkins-based CI/CD pipeline
+- S3 static site hosting, WAF integration, and Lambda API automation
 
 
 🔧 My Toolbox
